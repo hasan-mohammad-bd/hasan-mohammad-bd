@@ -1,16 +1,14 @@
-## Hi there 👋
+https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif
+# 👋 Hi, I'm Hasan Mohammed  
 
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+- 🔭 I’m currently working on an **ERP Project**.  
+- 🌱 I’m currently learning **React Native**.  
+- 👯 I’m looking to collaborate on **AI and e-commerce platforms**.  
+- 🤔 I’m looking for help to **find a new project**.  
+- 💬 Ask me about **anything you wish!**  
+- 📫 How to reach me: **hasan.md.east@gmail.com**  
+- 😄 Pronouns: **He/Him**  
+- ⚡ Fun fact: **I love solving complex frontend challenges and making user-friendly interfaces!**  
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/hasan.md.east) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hasan.md.007) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hasan19947) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hasanmohammadbd) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hasan.md.east@gmail.com) 
